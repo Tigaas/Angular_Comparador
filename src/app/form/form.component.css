@@ -1,0 +1,17 @@
+.buttontamanho{
+    width: 400px;
+
+
+}
+.divposition{
+    display:flex;
+    justify-content: center;
+}
+.inputtamanho{
+    width: 60px;
+}
+.labelstyle{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
